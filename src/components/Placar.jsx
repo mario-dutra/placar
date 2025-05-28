@@ -21,14 +21,14 @@ export default function Placar() {
   return (
     <>
 
-      <br />
-
-
+ 
+       
 
 
 
       <h1>{count}</h1>
       <button onClick={adicionar}>+</button> <button onClick={decrementa}>-</button>
+      
     </>
   )
 }
