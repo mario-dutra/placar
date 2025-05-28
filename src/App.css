@@ -134,7 +134,7 @@ height: 55px;
 
 /*responsividade*/
 
-@media (max-width:384px) {
+@media (max-width:450px) {
  .container{
     border: 0px solid rgb(0, 0, 0);
     width: 100%;
